@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+    padding: 0px 20px;
+}
+.header{
+    color:blue;
+    text-align: center;
+}
+.navbar{
+    border: solid 1px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blueviolet;
+    
+}
+.nav-links{
+    text-decoration: none; 
+
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    
+}
+h2{
+    color: darkgreen;
+
+}
+span{
+    color:coral;
+}
+.project{
+    color:darkmagenta;
+}
+h3{
+    color:maroon;
+}
+.bishop{
+    width: 350px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.pawn{
+    height: 70px;
+    width: 350px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.queen{
+    width: 350px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    height: 30px;
+    margin: 10px;
+}
+.black{
+    border-radius: 10px;
+    margin: 5px;
+    
+}
+.white{
+    border-radius: 10px;
+margin: 5px;
+}
